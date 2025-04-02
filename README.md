@@ -30,7 +30,7 @@ Recognized for strong collaboration abilities, successfully leading cross-functi
 - [LinkedIn](www.linkedin.com/in/bilal-arshad-1b0972292)
 - [GitHub](https://github.com/bilalarshad-1/bilalarshad-1)
 
-## 👨‍💻 Illustration: Programmer at Work
+
 
 ## 🛠 Technologies & Tools
 
