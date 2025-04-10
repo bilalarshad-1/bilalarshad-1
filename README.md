@@ -46,14 +46,4 @@ Recognized for strong collaboration abilities, successfully leading cross-functi
 ### Databases:
 - **MongoDB** <img src="https://upload.wikimedia.org/wikipedia/en/4/45/MongoDB-Logo.svg" width="6vw" height="6vh">, **MySQL** <img src="https://upload.wikimedia.org/wikipedia/en/thumb/d/dd/MySQL_logo.svg/1200px-MySQL_logo.svg.png" width="6vw" height="6vh">
 
-## 🔥 Logos Section
-<div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 10px;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/HTML5_Badge.svg" width="25vw" height="25vh">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg" width="25vw" height="25vh">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="25vw" height="25vh">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="25vw" height="25vh">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg" width="25vw" height="25vh">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" width="25vw" height="25vh">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" width="25vw" height="25vh">
-    <img src="https://upload.wikimedia.org/wikipedia/en/4/45/MongoDB-Logo.svg" width="25vw" height="25vh">
-</div>
+
