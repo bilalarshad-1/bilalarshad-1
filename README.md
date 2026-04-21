@@ -1,6 +1,6 @@
 # Hello 👋, I'm Bilal Arshad
 
-## A Passionate Full Stack Web Developer from Pakistan
+## A Passionate Full Stack Web Developer And AI/ML engineer
 
 Accomplished Full Stack Developer developing high-performance, responsive web applications using the **MERN (MongoDB, Express.js, React.js, Node.js) stack**. Proficient in leveraging cutting-edge front-end and back-end technologies to optimize application performance and deliver seamless user experiences.
 
